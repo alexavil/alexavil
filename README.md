@@ -2,4 +2,4 @@
 
 I'm currently working on a few Node.js projects. Feel free to fork and contribute to any of them.
 
-<a href="https://wakatime.com"><img width=50% height=50% src="https://wakatime.com/share/@2971f49f-f97e-4253-844f-fe2cfc73defe/e19b3d57-e8d3-47a8-a180-9a42e76d90a4.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@2971f49f-f97e-4253-844f-fe2cfc73defe/49fba527-063f-49b3-a4d5-efcceedc93b1.png" /></a>
